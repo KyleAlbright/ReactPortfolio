@@ -1,0 +1,68 @@
+h4 {
+  margin: 27px 0 20px 20px;
+  font-size: 120%;
+  
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 25px;
+  max-width: 1500px;
+  margin: 0 auto
+}
+.card {
+  background:#098191 ;
+  width: 600px;
+  height: 200px;
+  margin: 20px;
+  border-radius: 15px 15px;
+}
+.card-image {
+  filter: blur(3px);
+  transition: 0.5s;
+  background-position: center;
+  background-size: 100%, 100%;
+  height: 125px;
+  margin-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+}
+.card-image img {
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+}
+.card-image:hover {
+  filter: blur(0px);
+}
+
+.card-button {
+  float: right;
+  margin-right: 25px;
+}
+#card-image2 {
+  background-image: url("https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_standard/public/JavaScript-code.jpg?itok=yB8Igyye");
+}
+
+#card-image3 {
+  background-image: url("../assets/groupProj1.png");
+
+}
+
+#card-image4 {
+  background-image: url("../assets/ReadMeIMG1.png");
+}
+#card-image5 {
+  background-image: url("https://media.istockphoto.com/photos/global-connection-picture-id1335295270?b=1&k=20&m=1335295270&s=612x612&w=0&h=5Wyu2dJ0zLlz9lZSpcqWFS-_-nLo-HBvKPK-5A36W8A=");
+
+}
+
+@media screen and (max-width: 640px ) {
+  
+  h4{
+    font-size: 90%;
+   
+  }
+  
+  
+}
