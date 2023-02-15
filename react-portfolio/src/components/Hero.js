@@ -34,6 +34,7 @@ const Hero = () => {
         }}
         />
         </h1>
+        
         <br></br>
         <button className="btn btn-light">
           <a
