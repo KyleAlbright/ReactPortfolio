@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KyleAlbright/ReactPortfolio/static/css/main.39656e7e.css",
+    "main.js": "/KyleAlbright/ReactPortfolio/static/js/main.7e8c051b.js",
+    "static/media/video.mp4": "/KyleAlbright/ReactPortfolio/static/media/video.e91a85b5cd98e1b915cc.mp4",
+    "static/media/ReadMeIMG1.png": "/KyleAlbright/ReactPortfolio/static/media/ReadMeIMG1.a9c9a4e9148ecf1550f1.png",
+    "static/media/WeatherApp.png": "/KyleAlbright/ReactPortfolio/static/media/WeatherApp.0dc234e87c9bb4082204.png",
+    "pdf.worker.js": "/KyleAlbright/ReactPortfolio/63b20966a28f2720589ed766df748989.js",
+    "static/media/ReactPortfolio.png": "/KyleAlbright/ReactPortfolio/static/media/ReactPortfolio.5b7ea08d7e9b42d6aeb3.png",
+    "static/media/TechBlog.png": "/KyleAlbright/ReactPortfolio/static/media/TechBlog.a5d5f40f9a67830b4707.png",
+    "static/media/wraparound.png": "/KyleAlbright/ReactPortfolio/static/media/wraparound.57969a7708d87864343c.png",
+    "static/media/groupProj1.png": "/KyleAlbright/ReactPortfolio/static/media/groupProj1.6d378250f063dd53bf73.png",
+    "static/media/NoteTaker2.png": "/KyleAlbright/ReactPortfolio/static/media/NoteTaker2.59d77b05244c2105c4db.png",
+    "static/media/KA.pdf": "/KyleAlbright/ReactPortfolio/static/media/KA.d326378fc695671a2b4f.pdf",
+    "static/media/Hero2.jpg": "/KyleAlbright/ReactPortfolio/static/media/Hero2.e8e728399f7e6f263c56.jpg",
+    "static/media/javalogo.png": "/KyleAlbright/ReactPortfolio/static/media/javalogo.b4015cc4df20810c5258.png",
+    "static/media/expresslogo.png": "/KyleAlbright/ReactPortfolio/static/media/expresslogo.b44f5a4b0ab040328aac.png",
+    "static/media/mysqllogo.png": "/KyleAlbright/ReactPortfolio/static/media/mysqllogo.4676ad983d6bd3e9fac9.png",
+    "index.html": "/KyleAlbright/ReactPortfolio/index.html",
+    "main.39656e7e.css.map": "/KyleAlbright/ReactPortfolio/static/css/main.39656e7e.css.map",
+    "main.7e8c051b.js.map": "/KyleAlbright/ReactPortfolio/static/js/main.7e8c051b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39656e7e.css",
+    "static/js/main.7e8c051b.js"
+  ]
+}
