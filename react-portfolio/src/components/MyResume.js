@@ -11,7 +11,7 @@ function MyResume() {
  
 
   return (
-    <div className="container">
+    <div className="rescontainer">
      
       <Document file={Resume} onLoadSuccess={()=>{}}>
         <Page height="800" pageNumber={pageNumber} />
