@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KyleAlbright/ReactPortfolio/static/css/main.39656e7e.css",
-    "main.js": "/KyleAlbright/ReactPortfolio/static/js/main.7e8c051b.js",
+    "main.js": "/KyleAlbright/ReactPortfolio/static/js/main.2a654641.js",
     "static/media/video.mp4": "/KyleAlbright/ReactPortfolio/static/media/video.e91a85b5cd98e1b915cc.mp4",
     "static/media/ReadMeIMG1.png": "/KyleAlbright/ReactPortfolio/static/media/ReadMeIMG1.a9c9a4e9148ecf1550f1.png",
     "static/media/WeatherApp.png": "/KyleAlbright/ReactPortfolio/static/media/WeatherApp.0dc234e87c9bb4082204.png",
@@ -18,10 +18,10 @@
     "static/media/mysqllogo.png": "/KyleAlbright/ReactPortfolio/static/media/mysqllogo.4676ad983d6bd3e9fac9.png",
     "index.html": "/KyleAlbright/ReactPortfolio/index.html",
     "main.39656e7e.css.map": "/KyleAlbright/ReactPortfolio/static/css/main.39656e7e.css.map",
-    "main.7e8c051b.js.map": "/KyleAlbright/ReactPortfolio/static/js/main.7e8c051b.js.map"
+    "main.2a654641.js.map": "/KyleAlbright/ReactPortfolio/static/js/main.2a654641.js.map"
   },
   "entrypoints": [
     "static/css/main.39656e7e.css",
-    "static/js/main.7e8c051b.js"
+    "static/js/main.2a654641.js"
   ]
 }
