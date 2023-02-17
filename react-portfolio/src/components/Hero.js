@@ -2,7 +2,7 @@ import "./HeroStyle.css";
 
 import React, {useState} from "react";
 
-import LightBulb from "../assets/lightbulbhero.jpg";
+import LightBulb from "../assets/video.mp4";
 
 import Typewriter from 'typewriter-effect'
 
@@ -14,7 +14,9 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="mask">
-        <img className="hero_image" src={LightBulb} alt="LightBulb" />
+        <video className="hero_image" autoPlay loop muted>
+          <source src={LightBulb}  alt="LightBulb" type="video/mp4" />
+          </video> 
       </div>
       <div className="hero_content">
         <p className='title'>{state.title}</p>
@@ -27,9 +29,10 @@ const Hero = () => {
           loop: true,
           delay: 40,
           strings:[
+            "WEB DEVELOPER.",
             "JAVASCRIPT ENTHUSIAST.",
-            "DOG DAD.", 
-            "WEB DEVELOPER."
+            "DOG DAD."
+            
           ]
         }}
         />

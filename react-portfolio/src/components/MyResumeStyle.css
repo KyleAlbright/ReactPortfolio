@@ -1,16 +1,17 @@
+
+.react-pdf__Page__textContent, .react-pdf__Page__annotations  {
+
+  display: none;
+}
+
 .container {
-  /* justify-content: space-between; */
-  flex-direction: center;
-  /* height: 100vh; */
+
   display: flex;
-}
-.btn {
-  position: absolute;
-right: 0;
-bottom:   0;
+  flex-direction: column;
+  align-items: center;
+  
 }
 
-
-
-
-
+.downloadBtn {
+  margin-top: 6.5rem;
+}

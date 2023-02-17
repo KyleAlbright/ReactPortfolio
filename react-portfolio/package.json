@@ -1,10 +1,12 @@
 {
   "name": "react-portfolio",
+  "homepage": "https://github.com/KyleAlbright/ReactPortfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^6.5.1",
+    "gh-pages": "^5.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.7.1",
@@ -22,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

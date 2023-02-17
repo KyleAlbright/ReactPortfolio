@@ -4,25 +4,22 @@ import Resume from "../assets/KA.pdf";
 import React, { useState } from "react";
 
 function MyResume() {
-  const [numPage, setNumPages] = useState(null);
-  const [pageNumber, setPageNumber] = useState(1);
+ 
+  const [pageNumber] = useState(1);
 
-  function onDocumentLoadSuccess({ numPages }) {
-    setNumPages(numPage);
-    setPageNumber(1);
-  }
+  
  
 
   return (
     <div className="container">
-     <a href={require("../assets/KA.pdf")} download>
-					<button className="btn"></button>
-				</a>
-      <Document file={Resume} onLoadSuccess={onDocumentLoadSuccess}>
+     
+      <Document file={Resume} onLoadSuccess={()=>{}}>
         <Page height="800" pageNumber={pageNumber} />
       </Document>
-      <br></br>
       
+      <a href={require("../assets/KA.pdf")} download>
+					<button className="btn downloadBtn">Download Resume</button>
+				</a>
     </div>
     
   );

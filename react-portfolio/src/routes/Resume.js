@@ -11,7 +11,15 @@ const Resume = () => {
     <div>
     
     <Navbar />
-    <Background heading ="Contact me!" text='Looking forward to hearing from you. ' />
+    <Background 
+    heading ="Skills:" 
+    text='HTML / CSS' 
+    text2= 'Vanilla JavaScript'
+    text3= 'Node.js, Express.js, Handlebars.js'
+    text4= 'MySQL, MongoDB'
+    text5= 'Restful APIs'
+    text6= 'MVC Structure'
+    text7= 'React' />
     <MyResume />
     <Footer />
     
