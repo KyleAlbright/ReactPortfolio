@@ -1,8 +1,9 @@
 import "./MyResumeStyle.css";
-import { Document, Page } from "react-pdf/dist/esm/entry.webpack5";
+import { Document, Page, pdfjs } from  "react-pdf/dist/esm/entry.webpack5";
+
 import KAResume from "../assets/KA.pdf";
 import React, { useState } from "react";
-
+pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 function MyResume() {
  
@@ -14,7 +15,7 @@ function MyResume() {
   return (
     <div className="rescontainer">
      
-      <Document file={KAResume} onLoadSuccess={()=>{}}>
+      <Document file={KAResume} onLoadSuccess={()=>{}} onLoadError={console.error}>
         <Page height="800" pageNumber={pageNumber} />
       </Document>
       

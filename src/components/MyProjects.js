@@ -57,7 +57,7 @@ const MyProjects = () => {
         <img className = 'ReactLogo' src={ReactLogo} alt="React Logo" />
       </div>
       <button className="card-button btn"><a href="https://github.com/KyleAlbright/ReactPortfolio"target="_blank>">Github</a></button>
-      <button className="card-button btn"><a href="https://en.wikipedia.org/wiki/JavaScript"target="_blank>">Application</a></button>
+      <button className="card-button btn"><a href="https://kylealbright.github.io/ReactPortfolio/#/"target="_blank>">Application</a></button>
       <h4>React Portfolio</h4>
       </div>
 
