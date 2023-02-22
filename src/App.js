@@ -8,13 +8,13 @@ import Resume from "./routes/Resume";
 import Projects from "./routes/Projects";
 
 
-import { Route, BrowserRouter as  Router, Routes } from "react-router-dom";
+import { Route, HashRouter, Routes } from "react-router-dom";
 
 function App() {
   return (
    <>
 
-      <Router basename= {'/ReactPortfolio/'}>
+      <HashRouter>
        <Routes>
         <Route path="/"element={<Home />} />
         <Route path="/contact" element={<Contact />} />
@@ -22,7 +22,7 @@ function App() {
         <Route path="/resume" element={<Resume />} />
         <Route path="/projects" element={<Projects />} />
        </Routes>
-      </Router>
+      </HashRouter>
       
     </>
   );
