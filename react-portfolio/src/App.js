@@ -13,15 +13,15 @@ import { Route, BrowserRouter as  Router, Routes } from "react-router-dom";
 function App() {
   return (
    <>
- 
-      <Router>
+
+      <Router basename= {'/ReactPortfolio/'}>
        <Routes>
         <Route path="/"element={<Home />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/about" element={<About />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="/projects" element={<Projects />} />
-        </Routes>
+       </Routes>
       </Router>
       
     </>
