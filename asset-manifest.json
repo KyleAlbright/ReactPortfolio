@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.5ca9a680.css",
-    "main.js": "/ReactPortfolio/static/js/main.3fdb32de.js",
+    "main.js": "/ReactPortfolio/static/js/main.c3482653.js",
     "static/media/video.mp4": "/ReactPortfolio/static/media/video.e91a85b5cd98e1b915cc.mp4",
     "static/media/ReadMeIMG1.png": "/ReactPortfolio/static/media/ReadMeIMG1.a9c9a4e9148ecf1550f1.png",
     "static/media/WeatherApp.png": "/ReactPortfolio/static/media/WeatherApp.0dc234e87c9bb4082204.png",
-    "pdf.worker.js": "/ReactPortfolio/63b20966a28f2720589ed766df748989.js",
+    "static/media/pdf.worker.js": "/ReactPortfolio/static/media/pdf.worker.4478521558b463cfafe2.js",
     "static/media/ReactPortfolio.png": "/ReactPortfolio/static/media/ReactPortfolio.5b7ea08d7e9b42d6aeb3.png",
     "static/media/TechBlog.png": "/ReactPortfolio/static/media/TechBlog.a5d5f40f9a67830b4707.png",
     "static/media/wraparound.png": "/ReactPortfolio/static/media/wraparound.57969a7708d87864343c.png",
@@ -18,10 +18,10 @@
     "static/media/mysqllogo.png": "/ReactPortfolio/static/media/mysqllogo.4676ad983d6bd3e9fac9.png",
     "index.html": "/ReactPortfolio/index.html",
     "main.5ca9a680.css.map": "/ReactPortfolio/static/css/main.5ca9a680.css.map",
-    "main.3fdb32de.js.map": "/ReactPortfolio/static/js/main.3fdb32de.js.map"
+    "main.c3482653.js.map": "/ReactPortfolio/static/js/main.c3482653.js.map"
   },
   "entrypoints": [
     "static/css/main.5ca9a680.css",
-    "static/js/main.3fdb32de.js"
+    "static/js/main.c3482653.js"
   ]
 }
