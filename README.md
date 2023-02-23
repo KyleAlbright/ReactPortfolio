@@ -1,4 +1,4 @@
- # stuff
+ # KYLE ALBRIGHT - REACT PORTFOLIO
   ![badge](https://img.shields.io/badge/License-mit-blueviolet.svg) 
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,github&theme=dark)
   

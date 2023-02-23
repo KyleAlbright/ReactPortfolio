@@ -38,15 +38,7 @@ const Hero = () => {
         />
         </h1>
         
-        <br></br>
-        <button className="btn btn-light">
-          <a
-            href="https://www.linkedin.com/in/kyle-albright-atx512/"
-            target="_blank>"
-          >
-            Linkedin
-          </a>
-        </button>
+      
       </div>
       
       </div>

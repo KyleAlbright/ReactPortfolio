@@ -2,7 +2,7 @@ import "./FooterStyle.css";
 
 import React from "react";
 
-import { FaHome, FaPhone, FaEnvelope } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -10,24 +10,24 @@ const Footer = () => {
       <div className="footer_container">
         <ul className="footer_info">
           <li>
-            <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-            <strong>Address:</strong> 4905 Ingersoll Ln. Austin, Texas 78744
+            <FaGithub size={20} style={{ color: "#fff", marginRight: "2rem" }} />
+            <a href="https://github.com/KyleAlbright"><strong>GitHub:</strong>KyleAlbright</a>
           </li>
           <li>
-            <FaPhone size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-            <strong>Phone:</strong> 512-567-0100
+            <FaLinkedin size={20} style={{ color: "#fff", marginRight: "2rem" }} />
+            <a href="https://www.linkedin.com/in/kyle-albright-atx512/"><strong>Linkedin:</strong>kyle-albright-atx512</a>
           </li>
           <li>
-            <FaEnvelope
+            <FaTwitter
               size={20}
               style={{ color: "#fff", marginRight: "2rem" }}
             />
-            <strong>Email:</strong> kyle_albright@hotmail.com
+            <a href=" https://twitter.com/gitresetkyle"><strong>Twitter: </strong> @gitresetkyle</a>
+
           </li>
         </ul>
       </div>
     </div>
   );
 };
-
 export default Footer;
