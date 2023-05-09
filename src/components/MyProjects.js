@@ -58,7 +58,7 @@ const MyProjects = () => {
       </div>
       <button className="card-button btn"><a href="https://github.com/KyleAlbright/BottomsUpOrdering"target="_blank>">Github</a></button>
       <button className="card-button btn"><a href="https://bottoms-up-ordering.herokuapp.com/"target="_blank>">Application</a></button>
-      <h4>Mern Full-stack</h4>
+      <h4>Bottoms up - E-commerce</h4>
       </div>
 
   
