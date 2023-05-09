@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.d41ab620.css",
-    "main.js": "/ReactPortfolio/static/js/main.d1cbfd5a.js",
+    "main.js": "/ReactPortfolio/static/js/main.8a283820.js",
     "static/media/video.mp4": "/ReactPortfolio/static/media/video.e91a85b5cd98e1b915cc.mp4",
     "static/media/ReadMeIMG1.png": "/ReactPortfolio/static/media/ReadMeIMG1.a9c9a4e9148ecf1550f1.png",
     "static/media/WeatherApp.png": "/ReactPortfolio/static/media/WeatherApp.0dc234e87c9bb4082204.png",
@@ -10,18 +10,18 @@
     "static/media/wraparound.png": "/ReactPortfolio/static/media/wraparound.57969a7708d87864343c.png",
     "static/media/Screenshot 2.png": "/ReactPortfolio/static/media/Screenshot 2.ced6b68b477a91fa1847.png",
     "static/media/groupProj1.png": "/ReactPortfolio/static/media/groupProj1.6d378250f063dd53bf73.png",
+    "static/media/KA.pdf": "/ReactPortfolio/static/media/KA.37bc7204ff80c4ed80d1.pdf",
     "static/media/NoteTaker2.png": "/ReactPortfolio/static/media/NoteTaker2.59d77b05244c2105c4db.png",
-    "static/media/KA.pdf": "/ReactPortfolio/static/media/KA.d326378fc695671a2b4f.pdf",
     "static/media/Hero2.jpg": "/ReactPortfolio/static/media/Hero2.e8e728399f7e6f263c56.jpg",
     "static/media/javalogo.png": "/ReactPortfolio/static/media/javalogo.b4015cc4df20810c5258.png",
     "static/media/expresslogo.png": "/ReactPortfolio/static/media/expresslogo.b44f5a4b0ab040328aac.png",
     "static/media/mysqllogo.png": "/ReactPortfolio/static/media/mysqllogo.4676ad983d6bd3e9fac9.png",
     "index.html": "/ReactPortfolio/index.html",
     "main.d41ab620.css.map": "/ReactPortfolio/static/css/main.d41ab620.css.map",
-    "main.d1cbfd5a.js.map": "/ReactPortfolio/static/js/main.d1cbfd5a.js.map"
+    "main.8a283820.js.map": "/ReactPortfolio/static/js/main.8a283820.js.map"
   },
   "entrypoints": [
     "static/css/main.d41ab620.css",
-    "static/js/main.d1cbfd5a.js"
+    "static/js/main.8a283820.js"
   ]
 }
